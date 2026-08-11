@@ -43,7 +43,6 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             </QueryProvider>
           </ThemeProvider>
         </body>
-      </html>
-    );
-  }
+    </html>
+  );
 }
