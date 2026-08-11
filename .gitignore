@@ -1,9 +1,11 @@
 # ============================================================
-# IDE
+# IDE / Editors
 # ============================================================
 
 **/.idea/
 **/.vscode/
+**/.obsidian/
+
 *.iml
 *.iws
 *.ipr
@@ -16,7 +18,7 @@
 *.class
 *.log
 
-# Local Spring configuration / secrets
+# Local Spring Boot configuration / secrets
 **/application.properties
 **/application-*.properties
 **/application.yml
@@ -33,20 +35,12 @@
 **/out/
 **/.vercel/
 
-# npm / yarn / pnpm logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# TypeScript
 **/*.tsbuildinfo
-
-# ============================================================
-# Obsidian
-# ============================================================
-
-**/.obsidian/
 
 # ============================================================
 # Environment / Secrets
@@ -57,7 +51,7 @@ pnpm-debug.log*
 !.env.example
 
 # ============================================================
-# User-generated / uploaded data
+# User-generated / Uploaded Data
 # ============================================================
 
 **/uploads/
@@ -79,7 +73,7 @@ pnpm-debug.log*
 *.sqlite3
 
 # ============================================================
-# AI / ML
+# AI / ML Generated Files
 # ============================================================
 
 *.pt
