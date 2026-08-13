@@ -1,4 +1,4 @@
-BinaryPixels
+# BinaryPixels
 Google Photos-inspired image management platform with AI-powered image editing.
 
 ## Features
