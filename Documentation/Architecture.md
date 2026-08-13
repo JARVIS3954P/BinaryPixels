@@ -475,27 +475,27 @@ The current architecture follows these principles:
 
 ### Separation of Concerns
 
-Each layer has a defined responsibility.
+- Each layer has a defined responsibility.
 
 ### Stateless Authentication
 
-Authentication is based on JWTs rather than server-side sessions.
+- Authentication is based on JWTs rather than server-side sessions.
 
 ### Configuration Externalization
 
-Environment-specific configuration is kept outside Java classes.
+- Environment-specific configuration is kept outside Java classes.
 
 ### Persistence Isolation
 
-Database access is handled through repositories rather than controllers.
+- Database access is handled through repositories rather than controllers.
 
 ### DTO/Entity Separation
 
-API contracts should remain independent from database entities.
+- API contracts should remain independent from database entities.
 
 ### Incremental Complexity
 
-The architecture is intentionally kept as a modular monolith until real requirements justify additional infrastructure.
+- The architecture is intentionally kept as a modular monolith until real requirements justify additional infrastructure.
 
 ---
 
