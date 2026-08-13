@@ -19,7 +19,7 @@
 *.log
 
 # Local Spring Boot configuration / secrets
-**/application.properties
+Codes/backend/backend/src/main/resources/application.properties
 **/application-*.properties
 **/application.yml
 **/application.yaml
