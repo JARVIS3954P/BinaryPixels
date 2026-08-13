@@ -26,5 +26,5 @@ Google Photos-inspired image management platform with AI-powered image editing.
 
 ## Documentation
 
-- [Architecture](Documentation/architecture.md)
-- [Authentication](Documentation/authentication.md)
+- [Architecture](Documentation/Architecture.md)
+- [Authentication](Documentation/Authentication.md)
